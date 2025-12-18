@@ -9,7 +9,7 @@
         "storeUrl": "https://apps.apple.com/us/app/age-calculator-app/idYOUR_ID"
     },
     "android": {
-        "version": "1.0.1",
+        "version": "1.0.0",
         "forceUpdate": false,
         "releaseNotes": [
             "Initial Release",
